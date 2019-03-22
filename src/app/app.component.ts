@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'webA3';
+  name = 'Qarun';
+
+  num1: number = 10;
+  num2: number = 20;
+
+
 }
